@@ -1,2 +1,2 @@
 # prakash_iknowmycountry
-This a pet project made to make quiz about India
+This is a pet project made to make quiz about India
